@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-img{
+    display: inline-block;
+}
+.navbar-brand{
+    display: flex;
+    gap: 9px;
+}
+.hero-text{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.home-page{
+    font-weight: 700;
+    color: #89131d;
+}
+.hero-btn{
+    margin-left: 170px;
+    margin-top: 70px;
+}
+.button-1{
+    height: 30px;
+    width: 125px;
+    color: #fff;
+    background-color: #014bf4;
+    border-radius: 8px;
+    border: none;
+}
+.button-2{
+    height: 30px;
+    width: 125px;
+    color: #fff;
+    background-color: #e61838;
+    border-radius: 8px;
+    border: none;
+}
+.easy-learning{
+     margin-left: 60px; 
+     display: flex;
+     align-items: center;
+}
+.study{
+    margin-top: 80px;
+    margin-bottom: 500px;
+}
+.brain{
+    margin-left: 60px;
+    margin-top: 150px;
+}
+.doller{
+    display: flex;
+    justify-content: center;
+}
+.bd a{
+    border-radius: 7px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.choose-us{
+    margin-top: 280px;
+    font-size: 50px;
+}
+.provide{
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.provide-text{
+    font-size: 50px;
+}
+.service-text{
+    margin-top: 160px;
+}
+.design-text{
+    font-size: 20px;
+    padding: 2px;
+    color: #e61838;
+}
+.design{
+    height: 50px;
+    width: 750px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 8px;
+}
+.service{
+    margin-bottom: 160px;
+}
+.fotter-content a{
+    text-decoration: none;
+    color: #000;
+}
+.fotter-company a{
+    text-decoration: none;
+    color: #000;
+}
+.fotter-company a:hover{
+    color: #ff2d2d;
+}
+.fotter-icon{
+    font-size: 20px;
+    display: flex;
+    gap: 15px;
+    
+}
+.fotter-icon a{
+    background-color: #c63636;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    border-radius: 50%;
+    transition: all .3s ease-in;
+}
+.fotter-icon a:hover{
+    color: #e61838;
+    background-color: #fff;
+}
+ .mail-box{
+    height: 28px;
+    width: 320px;
+    background-color: #474545;
+    border-radius: 7px;
+     
+} 
+.mail-btn{
+    height: 23px;
+    width: 80px;
+    background-color: #ff2d2d;
+}
+.copy{
+   background-color: #ff2d2d; 
+   height: 40px;
+}
+
+
+ 
